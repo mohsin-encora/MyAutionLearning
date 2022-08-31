@@ -21,7 +21,7 @@ public class EmployeeClass {
 		System.out.println(EmpId);
 		System.out.println(Department);
 		System.out.println("Test");
-		System.out.println("test");
+		System.out.println("");
 	}
 
 	
